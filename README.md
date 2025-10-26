@@ -4,22 +4,23 @@
 
 ---
 
+### 💫 动态问候
+> 每天一条不一样的问候！
+
 <p align="center">
-  <a href="https://github.com/1parado">
-    <img alt="header" src="https://github-readme-stats.vercel.app/api?username=1parado&show_icons=true&count_private=true&theme=radical" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+World!+I'm+1parado;Keep+Coding%2C+Keep+Growing!;Java+Backend+Developer+from+China;Strive+for+clean+and+elegant+code+💻" alt="Typing SVG" />
 </p>
 
 ---
 
-## 关于我
+## 关于我🧭
 - 📚 2025年 现在是研二（在读研究生），主攻后端开发，熟悉 Java、Spring Boot、分布式系统基础。
 - 💡 喜欢算法和数据结构，平时刷题并优化工程实践。
 - 🌱 暑/寒假会寻找实习机会（偏 Java 后端岗位）。
 
 ---
 
-## 技能 & 工具
+## 技能 & 工具🧰
 - 语言：`Java`  · `SQL` · 
 - 后端：`Spring Boot` · `Spring AI` · `MyBatis` · 
 - 消息/中间件：`RocketMQ` · `RabbitMQ` · `Kafka`
@@ -39,22 +40,20 @@
 
 ---
 
+### 🐍 动态贪吃蛇：我的贡献图动起来啦！
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1parado/1parado/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 开源贡献 & 活动
 - 📝 博客 / 笔记：[Github Page + Hugo搭建的个人技术博客](https://1parado.github.io/)
 
 ---
 
-## 代码统计（动态）
-<p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1parado&layout=compact&theme=radical" />
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1parado&theme=radical" />
-</p>
-
----
-
 ## 联系我
 - GitHub: [@1parado](https://github.com/1parado)
-
 ---
 
 ## 小目标
