@@ -7,7 +7,7 @@
 ## 关于我🧭
 - 📚 2025年 现在是研二（在读研究生），主攻后端开发，熟悉 Java、Spring Boot、分布式系统基础。
 - 💡 喜欢算法和数据结构，平时刷题并优化工程实践。
-- 🌱 暑/寒假会寻找实习机会（偏 Java 后端岗位）。
+- 🌱 目前在一家中小厂实习 希望寒/暑假寻找实习机会（偏 Java 后端岗位）。
 
 ---
 
@@ -28,12 +28,6 @@
 - **[ollama-translate](https://github.com/1parado/ollama-translate)** — 一个简易文本翻译系统
 ---
 
-### 🐍 动态贪吃蛇：我的贡献图动起来啦！
-<p align="center">
-  <img src="https://raw.githubusercontent.com/1parado/1parado/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 开源贡献 & 活动
 - 📝 博客 / 笔记：[Github Page + Hugo搭建的个人技术博客](https://1parado.github.io/)
