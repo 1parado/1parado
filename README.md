@@ -23,6 +23,7 @@
 
 ## 项目速览
 - **[zzu_quick_lession](https://github.com/1parado/quick_lession_zzu)** — 仿郑州大学教务管理系统
+- **[zzu_survey_system](https://github.com/1parado/survey-system)** ——仿郑州大学调查问卷系统
 - **[my-backend-starter](https://github.com/1parado/vscode_sky_take_out)** — 苍穹外卖
 - **[leetcode-hot100](https://github.com/1parado/heima-dianping)** — 黑马点评
 - **[MCP-Database](https://github.com/1parado/MCP-Database)** — 基于Springboot+Ollama实现的自然语言操作数据库系统
