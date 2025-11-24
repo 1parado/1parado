@@ -28,7 +28,7 @@
 - **[leetcode-hot100](https://github.com/1parado/heima-dianping)** — 黑马点评
 - **[MCP-Database](https://github.com/1parado/MCP-Database)** — 基于Springboot+Ollama实现的自然语言操作数据库系统
 - **[ollama-translate](https://github.com/1parado/ollama-translate)** — 一个简易文本翻译系统
-- **[https://github.com/1parado/travel_system]**——一站式衣食住行酒旅系统
+- **[travel_system](https://github.com/1parado/travel_system)**——一站式衣食住行酒旅系统
 ---
 
 
