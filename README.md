@@ -6,7 +6,11 @@
 
 ### 📋 关于我
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fdc6ebef-1aba-4247-bfe0-f9083cee59f7" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/dc68fefb-55ce-43f6-adf8-6be3a25f9af5" width="30%" />
+  <img src="https://github.com/user-attachments/assets/cdcfeddc-260b-4007-8846-b8449f4282c8" width="30%" />
+  <img src="https://github.com/user-attachments/assets/822786b6-b778-49e4-a86f-5e1da78c4744" width="30%" />
+</div>
 
 ---
 
