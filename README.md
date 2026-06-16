@@ -6,10 +6,7 @@
 
 ### 📋 关于我
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/dc68fefb-55ce-43f6-adf8-6be3a25f9af5" width="30%" />
-  
-</div>
+Nothing...
 
 ---
 
