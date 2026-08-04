@@ -18,8 +18,6 @@ Java • Go • Python • Vue
 **Infrastructure**  
 MySQL • Redis • Elasticsearch • RocketMQ • Nginx • Git
 
----
-
 **AI Agent**
 
 Codex • Claudecode • Grok • Openclaw • Hermes
