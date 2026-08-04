@@ -1,7 +1,6 @@
 # 1parado
 
 **Backend Developer / AI Application Developer**  
-Zhengzhou University Postgraduate
 
 ---
 
@@ -14,10 +13,16 @@ INFP.
 ### Tech Stack
 
 **Languages & Frameworks**  
-Java • Go • Python • Spring Boot • Spring AI • Vue.js • JavaScript
+Java • Go • Python • Vue
 
 **Infrastructure**  
 MySQL • Redis • Elasticsearch • RocketMQ • Nginx • Git
+
+---
+
+**AI Agent**
+
+Codex • Claudecode • Grok • Openclaw • Hermes
 
 ---
 
