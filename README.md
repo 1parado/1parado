@@ -1,4 +1,4 @@
-# 1parado
+# Paradox
 
 **Backend Developer / AI Application Developer**  
 
@@ -13,10 +13,10 @@ INFP.
 ### Tech Stack
 
 **Languages & Frameworks**  
-Java • Go • Python • Vue
+Java • Go • Vue
 
 **Infrastructure**  
-MySQL • Redis • Elasticsearch • RocketMQ • Nginx • Git
+MySQL • Redis • RocketMQ • Nginx • Git
 
 **AI Agent**
 
