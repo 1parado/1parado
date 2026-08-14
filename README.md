@@ -22,4 +22,10 @@
 ### [grok switch](https://github.com/1parado/grok-build-switch) 
 - Owner
 
+## Internship Experience
+
+  <a href="https://github.com/1parado/offer-history/blob/main/README.md">Internship Experience</a>
+
+
+
 Helping more people through products.
