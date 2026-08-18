@@ -10,22 +10,28 @@
   </a>
 </p>
 
-## Open Source Contribution
 
-### [open-code-review](https://github.com/alibaba/open-code-review)  
-- #162 [fix: 改进 LLM 测试对空响应的反馈](https://github.com/alibaba/open-code-review/pull/162)   
-- #122 [feat: 增加 `--model` 参数以支持每次审查独立指定 LLM 模型](https://github.com/alibaba/open-code-review/pull/122)  
-### [grok-app](https://github.com/RongleCat/grok-app)  
-- #180 [feat: 新增消息树节点](https://github.com/RongleCat/grok-app/pull/180)   
-- #129 [feat(composer): 增加 `/history` 提示选择器及空状态上方向键历史回溯](https://github.com/RongleCat/grok-app/pull/129)  
-- #120 [feat(appearance): 支持皮肤切换、壁纸上传及叠加层透明度控制](https://github.com/RongleCat/grok-app/pull/120)  
-### [grok switch](https://github.com/1parado/grok-build-switch) 
-- Owner
+[![开源贡献](https://img.shields.io/badge/开源贡献-查看详情-2ea44f?style=for-the-badge&logo=github)](https://github.com/1parado/open-source-contribution/blob/main/README.md)
+[![实习经历](https://img.shields.io/badge/实习经历-查看详情-0077b5?style=for-the-badge&logo=linkedin)](https://github.com/1parado/offer-history/blob/main/README.md)
 
-## Internship Experience
-
-  <a href="https://github.com/1parado/offer-history/blob/main/README.md">Internship Experience</a>
-
-
-
-Helping more people through products.
+<table>
+  <tr>
+    <td>
+      <h3>My Interests</h3>
+      <ul>
+        <li><strong>A2A </li>
+        <li><strong>Multi-agent</li>
+        <li><strong>AI Product</li>
+      </ul>
+      <h3>Inspiration</h3>
+      <ul>
+        <li><strong>Linus Torvalds</strong><em></li>
+        <li><strong>Zhang Xiaolong</strong><em></li>
+        <li><strong>Steve Jobs</strong><em></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e9dddbc0-1716-4d35-bcfc-61e8b59030c0" alt="AGI" />
+    </td>
+  </tr>
+</table>
