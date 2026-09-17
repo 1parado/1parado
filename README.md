@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/e9dddbc0-1716-4d35-bcfc-61e8b59030c0" alt="AGI" />
+      <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a6395320-b9a8-4a37-9892-e3b9e5fd37af" />
     </td>
   </tr>
 </table>
